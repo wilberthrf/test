@@ -1,7 +1,7 @@
-if (x < a) {
-    if (condition) {
-        if (condition) {
-
+if (x > a) {
+    if (b > a) {
+        if (c > a) {
+            alert('works!!!');
         }
     }
 
